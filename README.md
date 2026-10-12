@@ -8,7 +8,7 @@
 ```python
 def main():
     name = "Vladimir Rui Fortes"
-    username = "@byruifortes"
+    username = "@iamruifortes"
     print(name, username)
     print(about())
     print(learning())
@@ -30,7 +30,7 @@ def about():
     
 
 def learning():
-    learning = ['C', 'Python', 'Essentials in Programming', 'Electrical Engineering', 'Power Engineering'}
+    learning = ['FlutterFlow', 'Electrical Engineering'}
     return learning
 
 
